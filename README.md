@@ -8,7 +8,6 @@ cd SimpleChatApi
 
 dotnet run
 
-
 To create new app:
 
 dotnet new webapi -n SimpleChatApi
